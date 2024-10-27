@@ -1,0 +1,122 @@
+# Blender 4.1.1 MTL File: 'cosas.blend'
+# www.blender.org
+
+newmtl Material.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/cholo/Documents/PORTFOLIO/Scream Jam/Alone/Assets/Models/Materials/images.jpeg
+
+newmtl Material.010
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd C:/Users/cholo/Documents/PORTFOLIO/Scream Jam/Alone/Assets/Models/Materials/11531.jpg
+
+newmtl carpet
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/3b38f221d29a8673fd1dea8d7d3b646e.jpg
+
+newmtl carpet.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/3b38f221d29a8673fd1dea8d7d3b646e.jpg
+
+newmtl door
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/DoorsWoodSingleOld0235_1_350.jpg
+
+newmtl door.001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/DoorsWoodSingleOld0235_1_350.jpg
+
+newmtl door.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/DoorsWoodSingleOld0235_1_350.jpg
+
+newmtl door.003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/DoorsWoodSingleOld0235_1_350.jpg
+
+newmtl door.004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/DoorsWoodSingleOld0235_1_350.jpg
+
+newmtl tiles
+Ns 568.284058
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/seamless-marble-tile.jpg
+
+newmtl wallPaint
+Ns 15.147927
+Ka 1.000000 1.000000 1.000000
+Kd 0.676315 0.581543 0.439410
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+
+newmtl wood
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Materials/1000_F_193729390_6hjtxCHSsuL5R3dZDNi53MCfr9GJSHxO.jpg
